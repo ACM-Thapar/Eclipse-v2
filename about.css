@@ -370,18 +370,18 @@ hr.socket{
   }
 footer{
     overflow-x: hidden;
-    background-color:#0000009d ;
-    color: white;
+    background-color:rgb(240, 229, 229) ;
+    color: black;
   }
   footer img{
     height: 3rem;
     margin: 1.5rem 0;
   }
   footer a{
-    color: white;
+    color: black;
   }
   footer a .disc{
-    color: white;
+    color: black;
   }
   footer svg.svg-inline--fa{
     font-size: 1.6rem;
