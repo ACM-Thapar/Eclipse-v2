@@ -811,12 +811,18 @@ footer .svg-inline--fa:hover {
 
 /* Sponsors */
 .image-overlay31{
+  padding: 2%;
   position: absolute;
-  top:300vw;
-  left:-1vw;
+  top:305vw;
+  left:5vw;
   justify-content: center;
   align-items: center;
   text-align:center;
+  backdrop-filter: blur(2px);
+  width: 90%;
+  margin: auto;
+  background-color: rgba(214, 214, 214, 0.096);
+  border-radius: 15px;
 }
 .row{
   margin:0px;
@@ -829,7 +835,9 @@ footer .svg-inline--fa:hover {
   font-family: "akira-expanded";
   font-size:2vw;
 }
-
+.eventheading{
+  font-size: 4vw;
+}
 .titleheading, .powerheading, .associateheading
 {
   margin-top:3%;
