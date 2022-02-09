@@ -845,16 +845,16 @@ footer .svg-inline--fa:hover {
 .growthgear, .henryharvin{
   width:50%;
 }
-.polygon, .devfolio{
-  margin-top:-5%;
-}
 
 
 .polygon{
-  width:55%;
+  width:35%;
+  margin: 2% 0 4%;
 }
 .devfolio{
   width:30%;
+  margin: 2% 0 4%;
+
 }
  .tezos, .filecoin, .celo, .redbull, .hackclub{
   width:30%;
