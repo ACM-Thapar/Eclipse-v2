@@ -158,11 +158,17 @@
 }
 .image-overlay9 {
   position: absolute;
-  top: 142.5vw;
-  left: 11.7%;
+  top: 143.6vw;
+  left: 11.3%;
+}
+.main-img-div{
+  width: 29.8vw;
 }
 .codepic {
-  width: 29.2vw;
+  width: 30.56vw;
+  border-radius: 50%;
+  position: relative;
+  top: 20% !important;
 }
 /*IMAGE3*/
 .image-overlay10 {
