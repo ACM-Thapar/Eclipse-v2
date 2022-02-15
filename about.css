@@ -450,6 +450,7 @@ footer .svg-inline--fa:hover {
   margin-bottom: 30px;
   cursor: pointer;
   display: inline-block;
+  
 }
 
 .button-1,
@@ -907,4 +908,7 @@ footer .svg-inline--fa:hover {
 .mediaheading{
   position: absolute;
   left:30%;
+}
+a{
+  color: inherit
 }
